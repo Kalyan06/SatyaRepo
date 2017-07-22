@@ -1,0 +1,2 @@
+# SatyaRepo
+Example practice
